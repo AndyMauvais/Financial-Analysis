@@ -15,18 +15,18 @@ Creating a financial statement for Joe’s lawn service, a small company that is
 
 ### Transactions  
 Created Excel spreadsheet tracking and categorizing the cashflow of Joe’s Lawn Service company.  
-![Transactions](/images/transactions.png)  
+![Transactions](/Images/Transactions.png)  
 
 ### Profit and Losses  
 Set up Profit and Loss statement that pulls from the transactions to summarize the monthly transactions by category.  
 Write SUMIFS formulas to auto populate the page with the transactions to provide monthly summaries of the profits and losses.  
-![Profit_Losses](images/profit_loss.png)  
+![Profit_Losses](Images/Profit_Loss.png)  
 
 ### Balance Sheet  
 Set up Assets and Liabilities and Owner’s Equity portions of a Balance Sheet.  
 Check that the balance equals zero.  
-![Assets](images/assets.png)  
-![Liabilities](images/liabilities.png)  
+![Assets](Images/Assets.png)  
+![Liabilities](Images/Liabilities.png)  
 
 
 ## Skills  
